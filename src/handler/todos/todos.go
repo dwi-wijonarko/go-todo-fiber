@@ -2,7 +2,7 @@ package handlerTodos
 
 import (
 	"github.com/dwi-wijonarko/go-fiber-todo/database"
-	"github.com/dwi-wijonarko/go-fiber-todo/src/models"
+	models "github.com/dwi-wijonarko/go-fiber-todo/src/models/todo"
 	"github.com/gofiber/fiber/v2"
 	"github.com/google/uuid"
 )

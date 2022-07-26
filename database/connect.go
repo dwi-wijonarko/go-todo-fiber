@@ -5,7 +5,7 @@ import (
 	"strconv"
 
 	"github.com/dwi-wijonarko/go-fiber-todo/config"
-	"github.com/dwi-wijonarko/go-fiber-todo/src/models"
+	models "github.com/dwi-wijonarko/go-fiber-todo/src/models/todo"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )
